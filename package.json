@@ -1,0 +1,23 @@
+{
+  "name": "ea-facebook",
+  "version": "0.0.1",
+  "description": "facebook utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hagb4rd/ea-facebook.git"
+  },
+  "keywords": [
+    "facebook",
+    "utils"
+  ],
+  "author": "hagb4rd@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hagb4rd/ea-facebook/issues"
+  },
+  "homepage": "https://github.com/hagb4rd/ea-facebook#readme"
+}
